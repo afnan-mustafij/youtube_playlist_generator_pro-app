@@ -4,7 +4,6 @@
 
 This Python-based GUI app transforms YouTube video URLs into playlist URLs for a channel’s full video library or uploads (including/excluding Shorts). Packed with video previews, duration estimates, and robust error handling, it’s perfect for content creators, researchers, or anyone who loves YouTube playlists. Run it as a script or build a standalone `.exe` for ultimate portability!
 
-![App Screenshot](screenshot.png)  
 *Compact UI with video previews, settings menu, and dark mode.*
 
 ## Features 🔥
